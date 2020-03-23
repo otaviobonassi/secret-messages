@@ -1,2 +1,2 @@
 # secret-messages
-Little project that encode messages and pass it through URL to be decoded later.
+Simple encrypting project using atob and btoa with a little of Regex.
